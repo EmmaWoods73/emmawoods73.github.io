@@ -1,4 +1,8 @@
+---
 title: Developer Profiles and Job Market Analysis
-layout: projects
+layout: single
 permalink: /projects/
 collection: projects
+---
+
+> project 1 content 
