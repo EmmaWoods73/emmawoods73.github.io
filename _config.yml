@@ -3,8 +3,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 title: "Emma Woods"
 subtitle: "Data Science Portfolio"
 
-author_profile: true
-
 # Plugins (previously gems:)
 plugins:
 - jekyll-include-cache
@@ -12,3 +10,12 @@ plugins:
 include: ["_pages"]
 
 breadcrumbs: true  # disabled by default
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
