@@ -69,7 +69,7 @@ defaults:
       layout: single
       author_profile: true
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:path/
