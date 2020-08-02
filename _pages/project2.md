@@ -1,7 +1,7 @@
 ---
 title: World Happiness Data Analysis
 layout: single
-permalink: /projects/
+permalink: /projects/world_happiness_data_analysis/
 collection: projects
 ---
 
