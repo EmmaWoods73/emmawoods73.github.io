@@ -49,6 +49,9 @@ plugins:
 include:
   - _pages
 
+breadcrumb_home_label : "Projects"
+breadcrumb_separator  : ">"
+
 # Defaults
 defaults:
   # _posts
