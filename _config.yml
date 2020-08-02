@@ -1,5 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 
+title: "Emma Woods"
+subtitle: "Data Science Portfolio"
+
 # Plugins (previously gems:)
 plugins:
 - jekyll-include-cache
