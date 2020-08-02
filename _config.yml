@@ -65,18 +65,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
-# docs:
-#   - title: Projects
-#     children:
-#       - title: "Developer Profiles and Job Market Analysis"
-#         url: /projects/project1/
-#       - title: "World Happiness Data Analysis"
-#         url: /projects/1/
-#       - title: "Penny Pinching Project"
-#         url: /projects/1/
-#       - title: "Brexit Blues"
-#         url: /projects/1/
-#       - title: "The Advertising Network"
-#         url: /projects/1/

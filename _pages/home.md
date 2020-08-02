@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Home Page
+title: Projects
 permalink: /
 author_profile: true
 classes:
