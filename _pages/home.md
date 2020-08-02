@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Testing H
+title: Home Page
 permalink: /
 author_profile: true
 classes:
@@ -9,4 +9,4 @@ sidebar:
   nav: "docs"
 ---
 
-# Testing Home
+> Need content here...
