@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: single
 title: Projects
 permalink: /
-sidebar:
-  nav: "docs"
 ---
 
 > Need testing content here...
 
-[Developer Profiles and Job Market Analysis]({% link _projects/project1.md %})
+[Developer Profiles and Job Market Analysis]({% link _pages/project1.md %})
 
 Details of this
