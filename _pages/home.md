@@ -1,10 +1,7 @@
 ---
-layout: single
+layout: default
 title: Projects
 permalink: /
-author_profile: true
-classes:
-  - landing
 sidebar:
   nav: "docs"
 ---
