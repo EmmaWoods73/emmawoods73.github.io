@@ -20,7 +20,7 @@ github_username          : "EmmaWoods73"
 author:
   name: "Emma Woods"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here." # Note: Markdown is allowed
+  bio: "Welcome to my Applied Data Science portfolio project site." # Note: Markdown is allowed
   links:
     # - label: "Made Mistakes"
     #   icon: "fas fa-fw fa-link"
