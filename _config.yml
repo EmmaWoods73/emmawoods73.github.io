@@ -20,10 +20,10 @@ github_username          : "EmmaWoods73"
 author:
   name: "Emma Woods"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Welcome to my Applied Data Science portfolio project site." # Note: Markdown is allowed
+  bio: "Applied Data Science portfolio" # Note: Markdown is allowed
   links:
-    # - label: "Made Mistakes"
-    #   icon: "fas fa-fw fa-link"
+    - label: "SUID: 230122608"
+      icon: "fas fa-fw fa-id-card"
     #   url: "https://mademistakes.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
@@ -31,9 +31,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmmaWoods73"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
+    - label: "ewoods@syr.edu"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto://ewoods@syr.edu"
 
 footer:
   links:
