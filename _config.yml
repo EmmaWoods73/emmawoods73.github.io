@@ -24,7 +24,7 @@ author:
   links:
     - label: "SUID: 230122608"
       icon: "fas fa-fw fa-id-card"
-    #   url: "https://mademistakes.com"
+      url: "#"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/mmistakes"
@@ -32,7 +32,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmmaWoods73"
     - label: "ewoods@syr.edu"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-fw fa-envelope"
       url: "mailto://ewoods@syr.edu"
 
 footer:
