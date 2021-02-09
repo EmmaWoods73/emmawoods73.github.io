@@ -22,7 +22,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Applied Data Science portfolio" # Note: Markdown is allowed
   links:
-     - label: "About me"
+    - label: "About me"
       icon: "fas fa-fw fa-id-card"
       url: "{% link _pages/brexit_blues.md %}"
     # - label: "Twitter"
