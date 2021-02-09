@@ -4,4 +4,4 @@ layout: single
 permalink: /aboutme/
 ---
 
-> aboutme content
+> [Go to my resume]({% link resume.md %})
