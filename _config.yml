@@ -22,9 +22,9 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Applied Data Science portfolio" # Note: Markdown is allowed
   links:
-    - label: "SUID: 230122608"
-      icon: "fas fa-fw fa-id-card"
-      url: "#"
+    # - label: "SUID: 230122608"
+    #  icon: "fas fa-fw fa-id-card"
+    #  url: "#"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/mmistakes"
