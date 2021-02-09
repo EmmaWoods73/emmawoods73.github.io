@@ -20,7 +20,7 @@ github_username          : "EmmaWoods73"
 author:
   name: "Emma Woods"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Uncovering the story behind the data" # Note: Markdown is allowed
+  bio: "Telling the story behind the data" # Note: Markdown is allowed
   links:
     - label: "About me"
       icon: "fas fa-fw fa-id-card"
