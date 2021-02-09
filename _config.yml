@@ -20,11 +20,11 @@ github_username          : "EmmaWoods73"
 author:
   name: "Emma Woods"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Applied Data Science portfolio" # Note: Markdown is allowed
+  bio: "Uncovering the story behind the data" # Note: Markdown is allowed
   links:
     - label: "About me"
       icon: "fas fa-fw fa-id-card"
-      url: "{% link _pages/brexit_blues.md %}"
+      url: "/aboutme/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/mmistakes"
